@@ -3,6 +3,7 @@ const FILES_TO_CACHE = [
     "/index.html",
     "/styles.css",
     "/index.js",
+    "/db.js",
     "/manifest.webmanifest",
     "/icons/Webp.net-192x192.png",
     "/icons/Webp.net-512x512.png"
